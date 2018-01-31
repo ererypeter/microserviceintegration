@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-service-web/micro-service-web.iml" filepath="$PROJECT_DIR$/micro-service-web/micro-service-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceintegration.iml" filepath="$PROJECT_DIR$/microserviceintegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registrationcenterweb/registrationcenterweb.iml" filepath="$PROJECT_DIR$/registrationcenterweb/registrationcenterweb.iml" />
+    </modules>
+  </component>
+</project>

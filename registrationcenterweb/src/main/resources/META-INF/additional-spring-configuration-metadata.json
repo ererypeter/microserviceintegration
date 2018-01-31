@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.register.port1",
+      "type": "java.lang.String",
+      "description": "Description for server.register.port1."
+  }
+] }
